@@ -1,0 +1,10 @@
+/node_modules/
+/dist
+/_electron
+/app-config.json
+/.idea
+.codeconfig
+/video-quickstart-js/node_modules
+*.sublime*
+.DS_STore
+.cache
