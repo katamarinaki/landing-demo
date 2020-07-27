@@ -37,6 +37,7 @@ body.dark .text {
 
 .text {
   font-size: 48px;
+  text-align: center;
 }
 
 #theme-button {
